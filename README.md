@@ -1,4 +1,4 @@
-![](C:/Users/oe/Desktop/AB%20TEST%20Git/projectI.png)
+![](C:/Users/oe/PycharmProjects/measurement_problems/ab_testing_data/images/AB_TEST_PROJECT.png)
 
 # Business Problem  Purpose
 
